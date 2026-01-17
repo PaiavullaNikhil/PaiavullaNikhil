@@ -3,7 +3,7 @@
 🔭 I’m currently working on  
 Building full-stack web applications using the MERN stack and actively working on freelance projects, with a focus on clean UI and real-world features.
 
-👯 **I’m looking to collaborate on**  
+😊 **I’m looking to collaborate on**  
 MERN-based projects, frontend-heavy apps, and student open-source projects.
 
 🤝 **I’m looking for help with**  
