@@ -2,16 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt" />
 </div>
 
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaiavullaNikhil/PaiavullaNikhil/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaiavullaNikhil/PaiavullaNikhil/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PaiavullaNikhil/PaiavullaNikhil/output/pacman-contribution-graph.svg">
-</picture>
-
-<br /><br />
-
 # 👋 About Me
 
 🔭 I’m currently working on  
@@ -34,11 +24,11 @@ I love building cool 3D and animated UI websites.
 
 <br />
 
-# 🕹️ Playing games, building code, learning every day :)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaiavullaNikhil/PaiavullaNikhil/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaiavullaNikhil/PaiavullaNikhil/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PaiavullaNikhil/PaiavullaNikhil/output/pacman-contribution-graph.svg">
+</picture>
 
 <br />
 
@@ -95,20 +85,9 @@ I love building cool 3D and animated UI websites.
 
 <br />
 
-# 🌐 Connect with Me
+# 🕹️ Playing games, building code, learning every day :)
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="45" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="45" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:nikhil.20th65@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="45" alt="email logo" />
-  </a>
-
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700" />
 </div>
 
