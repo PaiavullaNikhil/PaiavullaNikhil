@@ -20,14 +20,6 @@ I love building cool 3D and animated UI websites.
 
 <br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaiavullaNikhil/PaiavullaNikhil/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaiavullaNikhil/PaiavullaNikhil/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PaiavullaNikhil/PaiavullaNikhil/output/pacman-contribution-graph.svg">
-</picture>
-
-<br />
-
 # 💻 Tech Stack
 
 ### 🌐 Frontend
